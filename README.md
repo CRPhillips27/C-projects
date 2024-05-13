@@ -39,35 +39,6 @@ git clone https://github.com/yourusername/yourrepositoryname.git
 cd yourrepositoryname
 ```
 
-### Compiling the Projects
+### Running the Code
 
-Navigate to the directory containing the project files. Use the following commands to compile the projects:
-
-#### For MP2B.C (Numeric Conversion Tool):
-
-```bash
-gcc -o MP2B MP2B.C
-```
-
-#### For MP3B.C (Odd Number Generator):
-
-```bash
-gcc -o MP3B MP3B.c
-```
-
-### Running the Programs
-
-After compilation, you can run the programs using the following commands:
-
-#### To run the Numeric Conversion Tool:
-
-```bash
-./MP2B
-```
-
-#### To run the Odd Number Generator:
-
-```bash
-./MP3B
-```
-
+You can either run these programs in your local IDE or through an online compiler for ease of access. Either way, the code should work regardless. 
