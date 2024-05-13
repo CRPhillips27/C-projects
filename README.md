@@ -22,26 +22,9 @@ This repository contains two C projects completed as per the requirements of CMS
 
 ## Requirements
 
-Before you start, make sure you have a C compiler like GCC installed on your system. Here's how you can install GCC if it's not already installed:
+Before you start, make sure you have a C compiler like GCC installed on your system. You can download and install it from MinGW's website.
+However, if you already have a C environment setup, you can simply run the code there such as VSCode or even through online compilers. 
 
-### For Ubuntu:
-
-```bash
-sudo apt update
-sudo apt install build-essential
-```
-
-### For Fedora:
-
-```bash
-sudo dnf install make gcc gcc-c++ kernel-devel
-```
-
-### For macOS:
-
-```bash
-xcode-select --install
-```
 
 ## Getting Started
 
@@ -87,6 +70,4 @@ After compilation, you can run the programs using the following commands:
 ```bash
 ./MP3B
 ```
-```
 
-However, if you already have a C environment setup, you can simply run the code there such as VSCode or even through online compilers. 
